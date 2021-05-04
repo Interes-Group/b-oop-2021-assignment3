@@ -100,7 +100,7 @@ Including, but not limited to:
 
 * you can use the lombok library and its annotations in your solution. The necessary dependency is already present in the _pom.xml_ file.
 
-10 points are received by passing automated tests. For 9 or less passed tests 0 points are awarded. For each passed test above 9, 0.5 points is awarded. In special circumstances we can award fewer points for passed tests.
+10 points are received by passing automated tests. For 9 or less passed tests 0 points are awarded. For each passed test above 9, 0.5 points is awarded. In special circumstances we can give fewer points for passed tests.
 
 ## Handing in the assigment
 
